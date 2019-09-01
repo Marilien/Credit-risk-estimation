@@ -1,6 +1,6 @@
 # Credit scoring
 
-*** **This repository contains using different models (RandomForest, VotingClassifier, Xgboost) for credit scoring for home loan. Data visualization using matplotlib and seaborn.** ***
+*****This repository contains using different models (RandomForest, VotingClassifier, Xgboost) for credit scoring for home loan. Data visualization using matplotlib and seaborn.*****
 
 ### Dataset
 * Source: **https://www.kaggle.com/julianocosta/home-credit**
